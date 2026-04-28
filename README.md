@@ -191,7 +191,7 @@ docker run --rm my-node-app:latest
 
 Вы увидите вывод: `Hello from Node.js app!`
 
-![Hello from my Python app!]()
+![Hello from my Python app!](2026-04-28_22-45-36.png)
 
 Опционально вы можете зайти в интерактивный режим контейнера для ознакомления и отладки:
 ```shell
